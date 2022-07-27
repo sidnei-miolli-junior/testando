@@ -1,0 +1,41 @@
+body{
+    background-image: url(vou\ usar.jpg);
+    background-size: cover;
+    
+}
+#fotomaistexto{
+    margin: left 0%;%;
+    margin: top 0%;px;
+    float:left;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.foto{
+    width:160px;
+    height:230px;    
+}
+#header{
+    margin-left: 0%;
+    background-color: rgb(162, 202, 202);
+    background-size: 100%;
+}
+#sobremim{
+    color: aliceblue;
+    margin-left: 300px;
+}
+.sobremim{
+    float: right;
+}
+#news{
+    color: rgb(0, 0, 0);
+    margin-left: 300px;
+    margin-top: 50px;
+}
+#materias{
+    color: rgb(255, 255, 255);
+    float: right;
+    float: left;
+
+}
