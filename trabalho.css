@@ -14,8 +14,10 @@ img{
 }
 .foto{
     width:160px;
-    height:230px;    
+    height:230px;
+    float: left; 
 }
+
 #header{
     margin-left: 0%;
     background-color: rgb(162, 202, 202);
@@ -37,5 +39,23 @@ img{
     color: rgb(255, 255, 255);
     float: right;
     float: left;
-
+}
+#linhas{
+    margin-left:300px;
+}
+.linke{
+    width:20px;
+    height:20px;
+}
+.inst{
+    width:20px;
+    height:20px;
+}
+.twit{
+    width:20px;
+    height:20px;
+}
+.hub{
+    width:20px;
+    height:20px;
 }
